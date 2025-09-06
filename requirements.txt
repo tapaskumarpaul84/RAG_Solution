@@ -12,3 +12,10 @@ python-dotenv
 sentence-transformers
 langchain-huggingface
 ipykernel
+pymupdf
+unstructured
+pdfminer
+python-docx
+docx2txt
+openpyxl
+jq
